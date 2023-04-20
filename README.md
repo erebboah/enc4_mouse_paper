@@ -21,12 +21,12 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 2. [step2_archr.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step1_get_data.sh)  
 
 #### Analysis
-##### snRNA-seq analysis
+##### snRNA-seq
 1. [step3_qc.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step3_qc.sh)
 2. [step4_seurat.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step4_seurat.sh)
 3. step5_topyfic.sh (in progress)
 
-##### snATAC-seq analysis 
+##### snATAC-seq 
 1. [step3_process_archr.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step3_process_archr.sh) 
 2. step4_topics_analysis.sh (in progress)
 
