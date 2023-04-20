@@ -12,9 +12,9 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 
 #### Preprocessing 
 ##### snRNA-seq 
-1. [step0_splitpipe_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step0_splitpipe_12A.sh) Run
-2. [step1_splitfastq.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step1_splitfastq.sh) 
-3. [step2_run_snakemake_starsolo_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step2_run_snakemake_starsolo_12A.sh) 
+1. [step0_splitpipe_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step0_splitpipe_12A.sh) Run split-pipe on each sublibrary separately. Specify which samples belong to which round 1 barcoding well.
+2. [step1_splitfastq.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step1_splitfastq.sh) Split fastqs based on results of split-pipe: cell metadata and barcoded fastq. Split each pair original fastqs.
+3. [step2_run_snakemake_starsolo_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step2_run_snakemake_starsolo_12A.sh) Using sublibrary- and sample-demultiplexed fastqs as input into ENCODE STARSolo pipeline. Need 1 [config file](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/shallow_12A/C_4_F_1_config.yaml) per sublibrary/sample. 
 
 ##### snATAC-seq
 1. [step1_get_data*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step1_get_data.sh)  
@@ -22,7 +22,7 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 
 #### Analysis
 ##### snRNA-seq
-1. [step3_qc.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step3_qc.sh)
+1. [step3_qc.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step3_qc.sh) Must run snATAC-seq preprocessing steps to use both RNA and ATAC QC metrics to filter multiome cells. 
 2. [step4_seurat.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step4_seurat.sh)
 3. step5_topyfic.sh (in progress)
 
