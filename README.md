@@ -6,17 +6,17 @@ Postnatal timecourse of Bl6/Cast F1 hybrid mouse development in 5 core tissues: 
 Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 
 ### Left cerebral cortex
-#### Preprocessing 
-##### Data
+#### Data
 - snRNA-seq ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
 - snATAC-seq ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
 
+#### Preprocessing 
 ##### snRNA-seq 
 1. [step0_splitpipe_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step0_splitpipe_12A.sh)  
 2. [step1_splitfastq.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step1_splitfastq.sh) 
 3. [step2_run_snakemake_starsolo_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step2_run_snakemake_starsolo_12A.sh) 
 
-##### Pre-processing snATAC-seq
+##### snATAC-seq
 1. [step1_get_data*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step1_get_data.sh)  
 2. [step2_archr.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step1_get_data.sh)  
 
