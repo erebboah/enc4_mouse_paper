@@ -8,7 +8,7 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 ### Left cerebral cortex
 #### Data
 - snRNA-seq ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
-- snATAC-seq ENCODE carts: [Parse](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse/), [10x](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x/)
+- [snATAC-seq ENCODE cart](https://www.encodeproject.org/carts/enc4_mouse_snatac/)
 
 #### Preprocessing 
 ##### snRNA-seq 
