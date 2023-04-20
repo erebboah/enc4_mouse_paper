@@ -12,7 +12,7 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 
 #### Preprocessing 
 ##### snRNA-seq 
-1. [step0_splitpipe_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step0_splitpipe_12A.sh)  
+1. [step0_splitpipe_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step0_splitpipe_12A.sh) Run
 2. [step1_splitfastq.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step1_splitfastq.sh) 
 3. [step2_run_snakemake_starsolo_*.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/step2_run_snakemake_starsolo_12A.sh) 
 
@@ -30,4 +30,3 @@ Analyst: Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
 1. [step3_process_archr.sh](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/cortex/scripts/step3_process_archr.sh) 
 2. step4_topics_analysis.sh (in progress)
 
-Note: All Parse snRNA-seq experiments were done at the Mortazavi lab while all 10x multiome experiments were done at the Snyder lab, from nuclei isolation to sequencing.
