@@ -1,0 +1,8 @@
+https://www.encodeproject.org/files/ENCFF707JLS/@@download/ENCFF707JLS.tar.gz
+https://www.encodeproject.org/files/ENCFF229GFN/@@download/ENCFF229GFN.tar.gz
+https://www.encodeproject.org/files/ENCFF936DBL/@@download/ENCFF936DBL.tar.gz
+https://www.encodeproject.org/files/ENCFF664JVG/@@download/ENCFF664JVG.tar.gz
+https://www.encodeproject.org/files/ENCFF744OCX/@@download/ENCFF744OCX.tar.gz
+https://www.encodeproject.org/files/ENCFF994ZST/@@download/ENCFF994ZST.tar.gz
+https://www.encodeproject.org/files/ENCFF788GTH/@@download/ENCFF788GTH.tar.gz
+https://www.encodeproject.org/files/ENCFF843VXL/@@download/ENCFF843VXL.tar.gz

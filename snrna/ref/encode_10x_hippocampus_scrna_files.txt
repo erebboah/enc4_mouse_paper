@@ -1,0 +1,8 @@
+https://www.encodeproject.org/files/ENCFF518XSK/@@download/ENCFF518XSK.tar.gz
+https://www.encodeproject.org/files/ENCFF309OWE/@@download/ENCFF309OWE.tar.gz
+https://www.encodeproject.org/files/ENCFF931XHA/@@download/ENCFF931XHA.tar.gz
+https://www.encodeproject.org/files/ENCFF730CRQ/@@download/ENCFF730CRQ.tar.gz
+https://www.encodeproject.org/files/ENCFF739ZRM/@@download/ENCFF739ZRM.tar.gz
+https://www.encodeproject.org/files/ENCFF152KHN/@@download/ENCFF152KHN.tar.gz
+https://www.encodeproject.org/files/ENCFF262ACD/@@download/ENCFF262ACD.tar.gz
+https://www.encodeproject.org/files/ENCFF005OIH/@@download/ENCFF005OIH.tar.gz
