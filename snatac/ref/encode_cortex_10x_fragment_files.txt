@@ -1,0 +1,9 @@
+"https://www.encodeproject.org/metadata/?files.output_type=fragments&type=Experiment&cart=%2Fcarts%2Fenc4_mouse_snatac_cortex%2F&files.processed=true"
+https://www.encodeproject.org/files/ENCFF507SZV/@@download/ENCFF507SZV.tar.gz
+https://www.encodeproject.org/files/ENCFF676ZYL/@@download/ENCFF676ZYL.tar.gz
+https://www.encodeproject.org/files/ENCFF206HQH/@@download/ENCFF206HQH.tar.gz
+https://www.encodeproject.org/files/ENCFF674ICZ/@@download/ENCFF674ICZ.tar.gz
+https://www.encodeproject.org/files/ENCFF893PYY/@@download/ENCFF893PYY.tar.gz
+https://www.encodeproject.org/files/ENCFF111TDK/@@download/ENCFF111TDK.tar.gz
+https://www.encodeproject.org/files/ENCFF442NKD/@@download/ENCFF442NKD.tar.gz
+https://www.encodeproject.org/files/ENCFF490TFN/@@download/ENCFF490TFN.tar.gz

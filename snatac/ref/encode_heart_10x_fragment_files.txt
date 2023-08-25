@@ -1,0 +1,9 @@
+"https://www.encodeproject.org/metadata/?files.output_type=fragments&type=Experiment&cart=%2Fcarts%2Fenc4_mouse_snatac_heart%2F&files.processed=true"
+https://www.encodeproject.org/files/ENCFF087GPD/@@download/ENCFF087GPD.tar.gz
+https://www.encodeproject.org/files/ENCFF446ICD/@@download/ENCFF446ICD.tar.gz
+https://www.encodeproject.org/files/ENCFF152GXR/@@download/ENCFF152GXR.tar.gz
+https://www.encodeproject.org/files/ENCFF135RXW/@@download/ENCFF135RXW.tar.gz
+https://www.encodeproject.org/files/ENCFF151YWH/@@download/ENCFF151YWH.tar.gz
+https://www.encodeproject.org/files/ENCFF563VAR/@@download/ENCFF563VAR.tar.gz
+https://www.encodeproject.org/files/ENCFF982HBV/@@download/ENCFF982HBV.tar.gz
+https://www.encodeproject.org/files/ENCFF096VVB/@@download/ENCFF096VVB.tar.gz

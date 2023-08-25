@@ -1,0 +1,9 @@
+"https://www.encodeproject.org/metadata/?files.output_type=fragments&type=Experiment&cart=%2Fcarts%2Fenc4_mouse_snatac_gastrocnemius%2F&files.processed=true"
+https://www.encodeproject.org/files/ENCFF458NOQ/@@download/ENCFF458NOQ.tar.gz
+https://www.encodeproject.org/files/ENCFF612CUQ/@@download/ENCFF612CUQ.tar.gz
+https://www.encodeproject.org/files/ENCFF390IWZ/@@download/ENCFF390IWZ.tar.gz
+https://www.encodeproject.org/files/ENCFF324WYO/@@download/ENCFF324WYO.tar.gz
+https://www.encodeproject.org/files/ENCFF316CYB/@@download/ENCFF316CYB.tar.gz
+https://www.encodeproject.org/files/ENCFF538RGX/@@download/ENCFF538RGX.tar.gz
+https://www.encodeproject.org/files/ENCFF796KVZ/@@download/ENCFF796KVZ.tar.gz
+https://www.encodeproject.org/files/ENCFF463JIK/@@download/ENCFF463JIK.tar.gz

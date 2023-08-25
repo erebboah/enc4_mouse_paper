@@ -1,0 +1,8 @@
+https://www.encodeproject.org/files/ENCFF187VMN/@@download/ENCFF187VMN.tar.gz
+https://www.encodeproject.org/files/ENCFF035SPT/@@download/ENCFF035SPT.tar.gz
+https://www.encodeproject.org/files/ENCFF119IVK/@@download/ENCFF119IVK.tar.gz
+https://www.encodeproject.org/files/ENCFF622EUO/@@download/ENCFF622EUO.tar.gz
+https://www.encodeproject.org/files/ENCFF683IBE/@@download/ENCFF683IBE.tar.gz
+https://www.encodeproject.org/files/ENCFF176LJV/@@download/ENCFF176LJV.tar.gz
+https://www.encodeproject.org/files/ENCFF101BLM/@@download/ENCFF101BLM.tar.gz
+https://www.encodeproject.org/files/ENCFF042ZJI/@@download/ENCFF042ZJI.tar.gz

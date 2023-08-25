@@ -1,0 +1,9 @@
+"https://www.encodeproject.org/metadata/?files.output_type=fragments&type=Experiment&cart=%2Fcarts%2Fenc4_mouse_snatac_hippocampus%2F&files.processed=true"
+https://www.encodeproject.org/files/ENCFF887IYF/@@download/ENCFF887IYF.tar.gz
+https://www.encodeproject.org/files/ENCFF199KJL/@@download/ENCFF199KJL.tar.gz
+https://www.encodeproject.org/files/ENCFF779BRN/@@download/ENCFF779BRN.tar.gz
+https://www.encodeproject.org/files/ENCFF895ZNJ/@@download/ENCFF895ZNJ.tar.gz
+https://www.encodeproject.org/files/ENCFF529YTW/@@download/ENCFF529YTW.tar.gz
+https://www.encodeproject.org/files/ENCFF699GUJ/@@download/ENCFF699GUJ.tar.gz
+https://www.encodeproject.org/files/ENCFF318OLS/@@download/ENCFF318OLS.tar.gz
+https://www.encodeproject.org/files/ENCFF309DAD/@@download/ENCFF309DAD.tar.gz
