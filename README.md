@@ -9,7 +9,7 @@ Postnatal timecourse of B6/Cast F1 hybrid mouse development in 5 core tissues: c
 Code to run split-pipe per sublibrary and demultiplex fastqs for each sample (individual mouse) to submit to the ENCODE portal:
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/parse_demux)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/parse_demux)
-   - B6CAST Hippocampus
+   - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/parse_demux)
    - B6CAST Heart
    - B6CAST Gastrocnemius
    - B6CAST/5xFAD cortex/hippocampus
