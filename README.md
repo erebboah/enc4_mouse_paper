@@ -16,7 +16,7 @@ Code to run split-pipe per sublibrary (splitpipe_##.sh) and demultiplex fastqs f
    - B6/5xFAD cortex/hippocampus
 
 ### Integrated snRNA analysis
-Code to download 10x counts matrices from the ENCODE portal
+Code to download 10x counts matrices from the ENCODE portal, filter genes, detect ambient RNA (Cellbender), and detect doublets (Scrublet):
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_adrenal/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_adrenal/)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_cortex/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_cortex/)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_hippocampus/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_hippocampus/)
