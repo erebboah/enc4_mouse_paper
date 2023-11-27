@@ -22,7 +22,7 @@ Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect 
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_hippocampus/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_hippocampus/)
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_heart/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_heart/)
    - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_gastrocnemius/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_gastrocnemius/)
-   - B6CAST/5xFAD cortex/hippocampus
+   - B6CAST/5xFAD cortex/hippocampus and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_5xfad_ctx_hc/)
    - B6/5xFAD cortex/hippocampus
 
 Integrated Seurat processing and **cell type annotation**, which are run AFTER snATAC preprocessing code! Annotation is performed within Jupyter notebooks.
