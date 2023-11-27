@@ -61,6 +61,7 @@ Run Topyfic on each tissue:
 ## Figure 1
 ## Figure 2
 ## Figure 3
+## Figure 4
 
 ## Contact info
 Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
