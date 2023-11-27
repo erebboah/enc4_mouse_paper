@@ -26,7 +26,7 @@ Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect 
    - B6/5xFAD cortex/hippocampus
 
 Integrated Seurat processing and **cell type annotation**, which are run AFTER snATAC preprocessing code! Annotation is performed within Jupyter notebooks.
-   - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/annotation), [notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/adrenal/scripts/annotation/ADR_snRNA_annotation.ipynb)
+   - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/annotation), [annotation notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/adrenal/scripts/annotation/ADR_snRNA_annotation.ipynb)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/annotation)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/annotation)
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/annotation)
