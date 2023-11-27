@@ -17,7 +17,7 @@ Code to run split-pipe per sublibrary (splitpipe_##.sh) and demultiplex fastqs f
 
 ### Integrated snRNA analysis
 Code to download 10x counts matrices from the ENCODE portal
-   - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/preprocessing) and associated [10x cart]() and [Parse cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_adrenal/)
+   - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/preprocessing), [10x data cart]() and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_adrenal/)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/preprocessing)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/preprocessing)
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/preprocessing)
