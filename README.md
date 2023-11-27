@@ -16,19 +16,51 @@ Code to run split-pipe per sublibrary (splitpipe_##.sh) and demultiplex fastqs f
    - B6/5xFAD cortex/hippocampus
 
 ### Integrated snRNA analysis
-Code to download 10x counts matrices from the ENCODE portal, filter genes, detect ambient RNA (Cellbender), and detect doublets (Scrublet):
+Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect ambient RNA (Cellbender), and detect doublets (Scrublet):
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_adrenal/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_adrenal/)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_cortex/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_cortex/)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_hippocampus/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_hippocampus/)
-   - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/preprocessing)
-   - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/preprocessing)
+   - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_heart/) and [Parse cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_heart/)
+   - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_gastrocnemius/) and [Parse cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_gastrocnemius/)
    - B6CAST/5xFAD cortex/hippocampus
    - B6/5xFAD cortex/hippocampus
 
-Code for Seurat processing and cell type annotation:
+Integrated Seurat processing and cell type annotation, which are run AFTER snATAC preprocessing code!
+   - B6CAST Adrenal
+   - B6CAST Cortex
+   - B6CAST Hippocampus
+   - B6CAST Heart
+   - B6CAST Gastrocnemius
+   - B6CAST/5xFAD cortex/hippocampus
+   - B6/5xFAD cortex/hippocampus
 
 ### snATAC analysis
-Code to download fragments files from ENCODE snATAC standard pipeline
+Download fragments files from ENCODE snATAC standard pipeline, construct ArchR projects, and filter nuclei by > 1,000 fragments, > 4 TSS enrichment, and remove ArchR doublets:
+   - B6CAST Adrenal
+   - B6CAST Cortex
+   - B6CAST Hippocampus
+   - B6CAST Heart
+   - B6CAST Gastrocnemius
+
+Carry over cell type annotations to ArchR projects and further processing:
+   - B6CAST Adrenal
+   - B6CAST Cortex
+   - B6CAST Hippocampus
+   - B6CAST Heart
+   - B6CAST Gastrocnemius
+
+## Topics Modeling Overview
+
+Run Topyfic on each tissue:
+   - B6CAST Adrenal
+   - B6CAST Cortex
+   - B6CAST Hippocampus
+   - B6CAST Heart
+   - B6CAST Gastrocnemius
+
+## Figure 1
+## Figure 2
+## Figure 3
 
 ## Contact info
 Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
