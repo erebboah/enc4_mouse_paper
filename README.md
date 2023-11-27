@@ -6,7 +6,7 @@
 Postnatal timecourse of B6/Cast F1 hybrid mouse development in 5 core tissues: cortex, hippocampus, heart, adrenal gland, and gastrocnemius, at 7 timepoints for **Parse snRNA-seq**: PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20 and 2 timepoints for **10x Multiome snRNA-seq+snATAC-seq**: PND14 and PNM02, with 2 males and 2 females per timepoint.
 
 ### Parse Demultiplexing
-Code to run split-pipe per sublibrary (splitpipe_##.sh) and demultiplex fastqs for each sample (individual mouse) to submit to the ENCODE portal (run_demux_fastq.sh):
+Code to run split-pipe per sublibrary and demultiplex fastqs for each sample (individual mouse) to submit to the ENCODE portal:
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/parse_demux)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/parse_demux)
    - B6CAST Hippocampus
