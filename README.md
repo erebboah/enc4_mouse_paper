@@ -35,7 +35,7 @@ Integrated Seurat processing and **cell type annotation**, which are run AFTER s
    - B6/5xFAD cortex/hippocampus
 
 ### snATAC analysis
-Download fragments files from ENCODE snATAC standard pipeline, construct ArchR projects, and filter nuclei by > 1,000 fragments, > 4 TSS enrichment, and remove ArchR doublets:
+Download fragments files from ENCODE snATAC standard pipeline, construct ArchR projects, and filter nuclei by > 1,000 fragments, > 4 TSS enrichment, and remove doublets:
    - B6CAST Adrenal
    - B6CAST Cortex
    - B6CAST Hippocampus
