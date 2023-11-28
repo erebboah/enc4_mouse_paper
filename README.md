@@ -52,8 +52,7 @@ Carry over cell type annotations to ArchR projects and further processing:
 
 ## Topics Modeling Overview
 
-<img src="https://github.com/erebboah/enc4_mouse_paper/blob/main/enc4_topyfic_overview.png" width="522" height="541">
-![test](enc4_topyfic_overview.png)
+<img src="https://github.com/erebboah/enc4_mouse_paper/blob/main/enc4_topyfic_overview.png" width="348" height="361">
 
 
 Run Topyfic on each tissue:
