@@ -25,7 +25,7 @@ Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect 
    - B6CAST/5xFAD cortex/hippocampus and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_5xfad_ctx_hc/)
    - B6/5xFAD cortex/hippocampus
 
-Integrated Seurat processing and **cell type annotation**, which are run AFTER snATAC preprocessing code! Annotation is performed within Jupyter notebooks.
+Integrated Seurat processing and **cell type annotation**. If the data includes 10x Multiome, snATAC preprocessing code must be run first! 10x Multiome nuclei are filtered by both RNA and ATAC quality metrics. Annotation is performed within Jupyter notebooks.
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/annotation), [annotation notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/adrenal/scripts/annotation/ADR_snRNA_annotation.ipynb)
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/annotation), [annotation notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/cortex/scripts/annotation/CX_snRNA_annotation.ipynb)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/annotation), [annotation notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/hippocampus/scripts/annotation/HC_snRNA_annotation.ipynb)
