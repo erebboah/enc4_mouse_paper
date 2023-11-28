@@ -1,8 +1,9 @@
 # ENCODE 4 Mouse snRNA-seq and snATAC-seq Analysis
 
+## Cell type annotation overview
+
 <img src="https://github.com/erebboah/enc4_mouse_paper/blob/main/enc4_mouse_sn_analysis.png" width="773" height="465">
 
-## Cell type annotation overview
 Postnatal timecourse of B6/Cast F1 hybrid mouse development in 5 core tissues: cortex, hippocampus, heart, adrenal gland, and gastrocnemius, at 7 timepoints for **Parse snRNA-seq**: PND04, PND10, PND14, PND25, PND36, PNM02, and PNM18-20 and 2 timepoints for **10x Multiome snRNA-seq+snATAC-seq**: PND14 and PNM02, with 2 males and 2 females per timepoint.
 
 ### Parse snRNA Demultiplexing
@@ -50,6 +51,8 @@ Carry over cell type annotations to ArchR projects and further processing:
    - B6CAST Gastrocnemius
 
 ## Topics Modeling Overview
+
+<img src="https://github.com/erebboah/enc4_mouse_paper/blob/main/enc4_topyfic_overview.png" width="522" height="541">
 
 Run Topyfic on each tissue:
    - B6CAST Adrenal
