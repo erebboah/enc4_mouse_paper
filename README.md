@@ -13,7 +13,7 @@ Code to run split-pipe per sublibrary and demultiplex fastqs for each sample (in
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/parse_demux)
    - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/parse_demux)
    - B6CAST/5xFAD cortex/hippocampus
-   - B6/5xFAD cortex/hippocampus
+   - [B6/5xFAD cortex/hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/5xfad_brain/scripts/parse_demux)
 
 ### Integrated snRNA analysis
 Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect ambient RNA (Cellbender), and detect doublets (Scrublet):
