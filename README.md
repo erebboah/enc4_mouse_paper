@@ -1,4 +1,4 @@
-# ENCODE 4 Mouse snRNA-seq and snATAC-seq Analysis
+# ENCODE4 Mouse snRNA-seq and snATAC-seq Analysis
 
 ## Cell type annotation overview
 
