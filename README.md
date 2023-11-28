@@ -11,7 +11,7 @@ Code to run split-pipe per sublibrary and demultiplex fastqs for each sample (in
    - [B6CAST Cortex](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/cortex/scripts/parse_demux)
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/parse_demux)
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/parse_demux)
-   - B6CAST Gastrocnemius
+   - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/parse_demux)
    - B6CAST/5xFAD cortex/hippocampus
    - B6/5xFAD cortex/hippocampus
 
