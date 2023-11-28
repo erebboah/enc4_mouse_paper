@@ -93,7 +93,7 @@ gunzip ../../fastq/HC_2kA_R*.fastq.gz
 gunzip ../../analysis_2A/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
-  -o ../../standard_2A/ \
+  -o ../../lr_match_2A/ \
   -cell_meta ../../analysis_2A/all-well/DGE_unfiltered/cell_metadata.csv \
   -sp_fastq ../../analysis_2A/process/single_cells_barcoded_head.fastq \
   -f1 ../../fastq/HC_2kA_R1.fastq \

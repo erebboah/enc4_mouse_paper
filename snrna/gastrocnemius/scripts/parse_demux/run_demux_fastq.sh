@@ -13,7 +13,7 @@ gunzip ../../fastq/Gas_12kA_R*.fastq.gz
 gunzip ../../analysis_12A/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_12A/ \
+ -o ../../standard_12A/ \
  -cell_meta ../../analysis_12A/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_12A/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_12kA_R1.fastq \
@@ -29,7 +29,7 @@ gunzip ../../fastq/Gas_12kB_R*.fastq.gz
 gunzip ../../analysis_12B/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_12B/ \
+ -o ../../standard_12B/ \
  -cell_meta ../../analysis_12B/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_12B/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_12kB_R1.fastq \
@@ -45,7 +45,7 @@ gunzip ../../fastq/Gas_12kC_R*.fastq.gz
 gunzip ../../analysis_12C/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_12C/ \
+ -o ../../standard_12C/ \
  -cell_meta ../../analysis_12C/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_12C/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_12kC_R1.fastq \
@@ -61,7 +61,7 @@ gunzip ../../fastq/Gas_12kD_R*.fastq.gz
 gunzip ../../analysis_12D/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_12D/ \
+ -o ../../standard_12D/ \
  -cell_meta ../../analysis_12D/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_12D/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_12kD_R1.fastq \
@@ -77,7 +77,7 @@ gunzip ../../fastq/Gas_12kF_R*.fastq.gz
 gunzip ../../analysis_12F/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_12F/ \
+ -o ../../standard_12F/ \
  -cell_meta ../../analysis_12F/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_12F/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_12kF_R1.fastq \
@@ -93,7 +93,7 @@ gunzip ../../fastq/Gas_15kA_R*.fastq.gz
 gunzip ../../analysis_15A/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_15A/ \
+ -o ../../standard_15A/ \
  -cell_meta ../../analysis_15A/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_15A/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_15kA_R1.fastq \
@@ -109,7 +109,7 @@ gunzip ../../fastq/Gas_15kB_R*.fastq.gz
 gunzip ../../analysis_15B/process/single_cells_barcoded_head.fastq.gz
   
 python demux_fastqs.py \
- -o ../../shallow_15B/ \
+ -o ../../standard_15B/ \
  -cell_meta ../../analysis_15B/all-well/DGE_unfiltered/cell_metadata.csv \
  -sp_fastq ../../analysis_15B/process/single_cells_barcoded_head.fastq \
  -f1 ../../fastq/Gas_15kB_R1.fastq \
