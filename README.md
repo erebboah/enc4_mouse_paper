@@ -13,7 +13,7 @@ Run split-pipe per sublibrary and demultiplex fastqs for each sample (individual
    - [B6CAST Hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/hippocampus/scripts/parse_demux)
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/parse_demux)
    - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/parse_demux)
-   - B6CAST/5xFAD cortex/hippocampus
+   - [B6CAST/5xFAD cortex/hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/5xfad_cast_brain/scripts/parse_demux)
    - [B6/5xFAD cortex/hippocampus](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/5xfad_brain/scripts/parse_demux)
 
 ### Integrated snRNA analysis
