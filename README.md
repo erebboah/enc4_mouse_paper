@@ -62,9 +62,13 @@ Run Topyfic on each tissue:
    - B6CAST Gastrocnemius
 
 ## Figure 1
+[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig1.ipynb)
 ## Figure 2
+[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig2.ipynb)
 ## Figure 3
+[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
 ## Figure 4
+[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
 
 ## Contact info
 Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
