@@ -62,13 +62,17 @@ Run Topyfic on each tissue:
    - B6CAST Gastrocnemius
 
 ## Figure 1
-[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig1.ipynb)
+[R Jupyter notebook for panels b-d](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig1.ipynb)
 ## Figure 2
-[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig2.ipynb)
+[R Jupyter notebook for panels a-g](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig2.ipynb)
 ## Figure 3
-[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
+[R Jupyter notebook for panels a-m](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
 ## Figure 4
-[Notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
+[R Jupyter notebook for panels a-e](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
+## Supplementary figures 1-5
+[R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig_1-5.ipynb)
+## Supplementary figures 6-10
+[R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig_6-10.ipynb)
 
 ## Contact info
 Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
