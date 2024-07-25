@@ -73,6 +73,8 @@ Run Topyfic on each tissue:
 [R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig_1-5.ipynb)
 ## Supplementary figures 6-10
 [R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig_6-10.ipynb)
+## Supplementary figure 11
+[R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig11.ipynb)
 
 ## Contact info
 Liz Rebboah, Mortazavi Lab. erebboah@uci.edu
