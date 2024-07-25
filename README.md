@@ -64,9 +64,9 @@ Run Topyfic on each tissue:
 ## Figure 1
 [R Jupyter notebook for panels b-d](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig1.ipynb)
 ## Figure 2
-[R Jupyter notebook for panels a-g](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig2.ipynb)
+[Python Jupyter notebook for panels a-g](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig2.ipynb)
 ## Figure 3
-[R Jupyter notebook for panels a-m](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
+[Python Jupyter notebook for panels a-m](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
 ## Figure 4
 [R Jupyter notebook for panels a-e](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
 ## Supplementary figures 1-5
