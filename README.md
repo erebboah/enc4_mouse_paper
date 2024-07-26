@@ -68,9 +68,9 @@ Run Topyfic on each tissue:
 ## Figure 3
 [Python Jupyter notebook for panels a-m](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig3.ipynb)
 ## Figure 4
-[R Jupyter notebook for panels a-e](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
-[Scripts for running differential accessibility analysis for panel f](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/scripts)
-[R Jupyter notebook for panel f](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_f.ipynb)
+- [R Jupyter notebook for panels a-e](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_a-e.ipynb)
+- [Scripts for running differential accessibility analysis for panel f](https://github.com/erebboah/enc4_mouse_paper/blob/main/snatac/scripts)
+- [R Jupyter notebook for panel f](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Fig4_f.ipynb)
 ## Supplementary figures 1-5
 [R Jupyter notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/figures/Supp_fig_1-5.ipynb)
 ## Supplementary figures 6-10
