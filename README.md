@@ -24,7 +24,7 @@ Download snRNA-seq counts matrices from the ENCODE portal, filter genes, detect 
    - [B6CAST Heart](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/heart/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_heart/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_heart/)
    - [B6CAST Gastrocnemius](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/gastrocnemius/scripts/preprocessing), [10x data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_10x_gastrocnemius/) and [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_gastrocnemius/)
    - B6CAST/5xFAD cortex/hippocampus [Parse data cart](https://www.encodeproject.org/carts/enc4_mouse_snrna_parse_5xfad_ctx_hc/)
-   - B6/5xFAD cortex/hippocampus
+   - B6/5xFAD cortex/hippocampus [GEO link](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255965) and [ENCODE link](https://www.encodeproject.org/files/ENCFF237UOD/) to processed data
 
 Integrated Seurat processing and **cell type annotation**. If the data includes 10x Multiome, snATAC preprocessing code must be run first! 10x Multiome nuclei are filtered by both RNA and ATAC quality metrics. Annotation of Seurat clusters is performed within Jupyter notebooks.
    - [B6CAST Adrenal](https://github.com/erebboah/enc4_mouse_paper/tree/main/snrna/adrenal/scripts/annotation), [annotation notebook](https://github.com/erebboah/enc4_mouse_paper/blob/main/snrna/adrenal/scripts/annotation/ADR_snRNA_annotation.ipynb)
